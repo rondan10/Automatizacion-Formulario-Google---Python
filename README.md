@@ -3,7 +3,7 @@
 ## Project setup
 ```
 pip install python
-pip install seleium
+pip install selenium
 ```
 
 ### Compiles for development
